@@ -1,5 +1,5 @@
 # Calculator
-Calculator using html,css,javascript
-Demo Link- 
-<br>
-<img src="https://i.ibb.co/Nj2LzsB/2022-12-13.png" alt="2022-12-13" border="0">
+Calculator using html,css,javascript<br><br>
+Demo Link- https://yash-srivastav16.github.io/Basic-Calculator/<br><br>
+<br><br>
+<img src="https://iili.io/HoTGHAl.md.png">
